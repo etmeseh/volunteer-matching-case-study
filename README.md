@@ -4,6 +4,7 @@
 > **This repository contains no source code and no personal data.** The application is private and runs only on the association's local network for data-protection (GDPR) reasons. This page documents the problem, architecture and engineering decisions.
 
 **Role:** Lead developer (volunteer), from first prototype to production use, 2025 – today
+
 **Stack:** React 18 · TypeScript · Vite · Tailwind CSS · Radix UI / shadcn · Zustand · i18next · Leaflet · Vitest · Cypress · Django 5 / DRF · SQLite · Docker Compose · Nginx
 
 ---
@@ -106,4 +107,5 @@ Organisations with their contact persons and placements. Each placement has its 
 ---
 
 Published with the permission of MachMit-Zentrum e.V.
+
 Contact: [github.com/etmeseh](https://github.com/etmeseh) · oncuol.etka@gmail.com
